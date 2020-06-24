@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1 | Hasibul Islam | [starhasibul](https://github.com/starhasibul) | [starhasibul](https://instagram.com/starhasibul) |
 | 2 | Abanti Chatterjee | [Abanti](https://github.com/Abanti-2001)  | [Insta](Instagram.com) |
+| 3 | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365) | [snehashis.2000](https://instagram.com/snehashis.2000/) |
