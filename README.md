@@ -29,6 +29,6 @@ You will also receive a notification email after I merge your Pull Request.
 
 ##### Thank You Everyone for supporting us in this initiative!!!
 
-##### Speical Thanks to [Snehashis](https://github.com/snehashis365)for jointly starting this initiative with me.
+##### Speical Thanks to [Snehashis](https://github.com/snehashis365) for jointly starting this initiative with me.
 
-*Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)
+*Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)*
