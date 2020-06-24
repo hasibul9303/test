@@ -8,8 +8,8 @@ For now we will be using the web version of GitHub only.
 Follow the steps below to make your first contribution on GitHub.
 
 ## Fork this repository:--
-Fork this repository by clicking on the **
-Fork** button on the top of this page.
+Fork this repository by clicking on the **Fork** 
+button on the top of this page.
 This will create a copy of this repository
 
 
