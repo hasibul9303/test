@@ -9,5 +9,5 @@
 | 3 | Tayan Sinha | [tayansinha](https://github.com/TayanSinha) | [tayansinha] |
 |4 | Susmita Banerjee | [Susmo31](https://github.com/Susmo31) | [susmo.31](https://www.instagram.com/susmo.31/) |
 |5| Sneha Kar | [Sneha38](https://github.com/Sneha38) | [karsneha1650]
-
+| 6 | Snehashis Sarkar | [snehashis365](https://github.com/snehashis365) | [snehashis.2000]
 
