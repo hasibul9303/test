@@ -14,7 +14,7 @@ This will create a copy of this repository
 
 
 ## Open the Contributors.md file 
-Open the file in your forked repository and follow the guidelines there and make necessary changes.
+Open [Contributors.md](Contributors.md) file in your forked repository and follow the guidelines there and make necessary changes.
 
 ## Make Commits
 After making the changes click on the **Commit Changes** button .
