@@ -5,7 +5,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 #### Welcome!!
-Hello Everyone :wave:!!
+Hello Everyone!!:wave:
 I have created this repository to make my friends understand the basics of GitHub.
 In this repository you have to contribute in [Contributors.md](Contributors.md).
 
@@ -33,7 +33,7 @@ Click it. Add a appropriate message and send a Pull Reques
 I will verify your changes and will **Merge** it in my repository soon.
 You will also receive a notification email after I merge your Pull Request.
 
-##### Thank You Everyone for supporting us in this initiative!!!
+##### Thank You Everyone for supporting us in this initiative!! :sparkling_heart:
 
 ##### Speical Thanks to [Snehashis](https://github.com/snehashis365) for jointly starting this initiative with me.
 
