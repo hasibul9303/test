@@ -27,7 +27,7 @@ After making the changes click on the **Commit Changes** button .
 
 ## Make a Pull Request
 You will now see a **Compare and Pull Request** button in the repository.
-Click it. Add a appropriate message and send a Pull Reques
+Click it. Add a appropriate message and send a Pull Request
 
 ### Now you have successfully contributed in this repository!!
 I will verify your changes and will **Merge** it in my repository soon.
