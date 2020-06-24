@@ -14,6 +14,6 @@
 | 8 | Sneha Manna | [snehamanna195](https://github.com/misssneha) |[_miss__sneha_] |
 | 9 | Indrani Dey | [idey8004](https://github.com/idey8004) | [_indrani_dey_](https://instagram.com/_indrani_dey_)
 |10 | Ritika Singh | [ritika2254](https://github.com/ritika2254) | [named_ritika](https://www.instagram.com/named_ritika) |
-
+|10 | Tathagatha Basu | [tathagathabasu](https://github.com/tathagathabasu) | [tathagathabasu](https://www.instagram.com/tathagatha_basu) |
 
 
