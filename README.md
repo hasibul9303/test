@@ -1,3 +1,9 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/starhasibul/test/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/starhasibul/test)](https://github.com/starhasibul/test/issues)
+[![GitHub forks](https://img.shields.io/github/forks/starhasibul/test?style=social)](https://github.com/starhasibul/test/network) 
+[![GitHub stars](https://img.shields.io/github/stars/starhasibul/test?style=social)](https://github.com/starhasibul/test/stargazers) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 #### Welcome!!
 Hello Everyone :wave:!!
 I have created this repository to make my friends understand the basics of GitHub.
