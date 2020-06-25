@@ -40,3 +40,4 @@ You will also receive a notification email after I merge your Pull Request.
 *Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)*
 
 #StayHomeStaySafe
+#GoCorona_CoronaGo
