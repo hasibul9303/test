@@ -16,7 +16,7 @@ Follow the steps below to make your first contribution on GitHub.
 ## Fork this repository
 Fork this repository by clicking on the **Fork** 
 button on the top of this page.
-This will create a copy of this repository
+This will create a copy of this repository under you profile which you will own the rights to freely edit without directly affecting the original unless you create a pull request merge the changes.
 
 
 ## Open the Contributors.md file 
@@ -38,3 +38,5 @@ You will also receive a notification email after I merge your Pull Request.
 ##### Speical Thanks to [Snehashis](https://github.com/snehashis365) for jointly starting this initiative with me.
 
 *Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)*
+
+#StayHomeStaySafe
