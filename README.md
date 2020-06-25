@@ -41,3 +41,4 @@ You will also receive a notification email after I merge your Pull Request.
 
 #StayHomeStaySafe
 #GoCorona_CoronaGo
+#DontReadWhatsAppForwards
