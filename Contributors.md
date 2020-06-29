@@ -17,3 +17,5 @@
 | 11 | Tathagatha Basu | [tathagathabasu](https://github.com/tathagathabasu) | [tathagathabasu](https://www.instagram.com/tathagatha_basu) |
 | 12 | RAjDeep Ghosh | [silentX2001](https://github.com/silentX2001) | [rajdeepghosh1618](https://www.instagram.com/rajdeepghosh1618) |
 | 13 | William Sandres | [HakaCode](https://github.com/HakaCode) | [will.constantinov](https://www.instagram.com/will.constantinov/) |
+| 14 | Arnab Mandal | [Arnab9674](https://github.com/Arnab9674) | [arnab8519](https://www.instagram.com/arnab8519/) |
+
